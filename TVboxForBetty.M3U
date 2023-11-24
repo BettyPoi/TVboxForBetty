@@ -589,3 +589,5 @@ http://nas.jdshipin.com:8801/iptv.php?id=ngds4k
 http://nas.jdshipin.com:8801/iptv.php?id=xy4k
 #EXTINF:-1,tvg-id="湖南IPTV4K" tvg-name="湖南IPTV4K" tvg-logo="https://epg.112114.xyz/logo/湖南IPTV4K.png" group-title="湖南",湖南IPTV4K
 http://nas.jdshipin.com:8801/iptv.php?id=hn4k
+#EXTINF:-1,tvg-id="湖南IPTV4K" tvg-name="湖南IPTV4K" tvg-logo="https://epg.112114.xyz/logo/湖南IPTV4K.png" group-title="湖南",湖南IPTV4K
+http://nas.jdshipin.com:8801/iptv.php?id=hn4k
